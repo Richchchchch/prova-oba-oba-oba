@@ -1,0 +1,27 @@
+body{
+	font-family: monospace;
+	font-size:100%;
+	color: #FFFFFF;
+	background-color: rgba(4, 0, 15, 1.0);
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+#algo{
+    background-color: hsl(203, 7%, 45%);
+    border: 2px white;
+    margin: 10px;
+    padding: 10px;
+}
+.filmes{
+    background-color: transparent;
+    border: 2px;
+    margin: 10px;
+    padding: 10px;
+}
