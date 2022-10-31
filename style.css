@@ -25,24 +25,16 @@ h3{
     margin: 10px;
     padding: 10px;
 }
-.header{
-    background-color: #C78F88;
-    padding: 20px, 10px;
-}
-a{
-    float: left;
-    color: 000000;
-    text-align: center;
-    padding: 12px;
-    text-decoration: none;
-    font-size: 18px; 
-    line-height: 25px;
-    border-radius: 4px;
-}
-.top{
+nav li{
     font-size: 25px;
-    font-weight: bold;
+    display: inline;
+    margin: 0 5px 0 25px;
+    color: #141414;
 }
-.header-right{
-    float: right;
+header{
+    background-color: #f7d22a;
+    padding: 10px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
