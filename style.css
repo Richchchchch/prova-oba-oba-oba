@@ -25,16 +25,16 @@ h3{
     margin: 10px;
     padding: 10px;
 }
-nav li{
-    font-size: 25px;
-    display: inline;
-    margin: 5px, 25px;
- 
-}
 header{
     background-color: #f7d22a;
     padding: 10px 0;
     display: flex;
     align-items: center;
     justify-content: space-between;
+}
+nav li{
+    font-size: 25px;
+    display: inline;
+    margin: 5px, 25px;
+ 
 }
